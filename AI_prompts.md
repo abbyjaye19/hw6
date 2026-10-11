@@ -212,3 +212,19 @@ The first prompt asked for a list of surprises to choose from but didn't say whi
 > More points for a designed page that reads well. I like a formal appearance with a navy, white, gold, and silver theme. Make it professional, neat, easy to use, and eye-catching for customers. I also love bulldogs, and Campus Customs is Yale merch, so make it themed appropriately.
 
 **Follow-up prompt:** None needed.
+
+---
+
+## Problem 10: Push to GitHub and submit the URL
+
+**Prompt 1:**
+
+> I am now on Problem 10: Please push my project to a public GitHub repository, and I will submit the repo URL. Graders are going to clone it, so make sure it opens and the files below are there. Include the whole data/ folder (the course data plus my two attack files) so graders can clone the repo and run the agent right away. Do not commit my real .env. Use .gitignore to keep it out, and include .env.example with placeholders only.
+>
+> *(I attached a screenshot of the expected repo layout: AI_prompts.md, README.md, .gitignore, .env.example, requirements.txt, agent.py, tools.py, models.py, prompts/prompt.md, data/ with the handbook, prices, practice key, practice_docs, exam_docs, and my_attacks, and output/ with every result file and hw6_report.html.)*
+>
+> Other Python files are fine, but add a short note in README.md on how to run my agent.
+
+**Follow-up prompt:** None needed.
+
+**Repo:** https://github.com/abbyjaye19/hw6
