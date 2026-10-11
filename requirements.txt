@@ -1,0 +1,7 @@
+tiktoken
+pydantic-ai-slim[openai]
+openai
+python-dotenv
+beautifulsoup4
+pypdf
+pypdfium2

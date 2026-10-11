@@ -1,0 +1,6 @@
+# Keep vendor documents byte-for-byte (no line-ending conversion): PDFs and emails must not change.
+*.pdf binary
+*.png binary
+*.eml -text
+data/** -text
+output/human_view/** -text
